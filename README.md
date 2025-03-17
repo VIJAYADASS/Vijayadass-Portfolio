@@ -1,6 +1,6 @@
 # Vijayadass-Portfolio
 
-#Using Reeact.js
+#Using React.js
 
 
  
