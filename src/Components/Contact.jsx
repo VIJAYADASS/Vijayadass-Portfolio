@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="flex items-center gap-4 w-full md:w-1/2">
           <div className="w-20 h-20 rounded-full overflow-hidden bg-gray-500">
             <img
-              src="/src/assets/P1.png"
+              src="./assets/P1.png"
               alt="Profile"
               className="w-full h-full object-cover"
             />
