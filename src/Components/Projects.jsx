@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:-translate-y-1 transition-transform">
           <div className="relative group">
             <img
-              src="./src/assets/calculator.jpg"
+              src="./assets/Calculator.jpg"
               alt="Calculator project"
               className="w-full object-cover"
             />
