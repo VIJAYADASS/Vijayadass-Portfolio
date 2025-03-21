@@ -23,7 +23,7 @@ const Home = () => {
           }
         >
           <img
-            src="./src/assets/download.png"
+            src="./assets/Download.png"
             alt="download"
             className="w-5 h-5 mr-2 transition duration-300 group-hover:filter group-hover:brightness-0 group-hover:invert"
           />
@@ -33,7 +33,7 @@ const Home = () => {
       <div className="flex-1 flex justify-center">
         <div className="relative w-120 h-auto rounded-full p-1 overflow-hidden">
           {/* Animated gradient border (requires additional Tailwind configuration or custom CSS) */}
-          <div className="absolute inset-0 animate-spin">
+          <div className="absolute inset-0 animate-spin-slow">
             <div className="w-full h-full rounded-full bg-gradient-conic from-transparent via-green-500 to-transparent"></div>
           </div>
           <div className="relative w-full h-full bg-gray-900 rounded-full flex items-center justify-center ">
