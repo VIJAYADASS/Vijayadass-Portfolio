@@ -4,13 +4,13 @@ React;
 
 const Skills = () => {
   const skills = [
-    { name: "HTML", image: "./src/assets/html.png" },
-    { name: "CSS", image: "./src/assets/css.png" },
-    { name: "JavaScript", image: "./src/assets/Javascript.png" },
-    { name: "React.js", image: "./src/assets/reactjs.png" },
-    { name: "Git", image: "./src/assets/Git.png" },
-    { name: "GitHub", image: "./src/assets/Github.png" },
-    { name: "Tailwind", image: "./src/assets/Tailwind.png" },
+    { name: "HTML", image: "./assets/HTML.png" },
+    { name: "CSS", image: "./assets/CSS.png" },
+    { name: "JavaScript", image: "./assets/Javascript.png" },
+    { name: "React.js", image: "./assets/Reactjs.png" },
+    { name: "Git", image: "./assets/Git.png" },
+    { name: "GitHub", image: "./assets/Github.png" },
+    { name: "Tailwind", image: "./assets/Tailwind.png" },
   ];
   return (
     <section id="skills" className="py-16 px-8 bg-gray-900 text-center">
