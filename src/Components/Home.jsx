@@ -38,7 +38,7 @@ const Home = () => {
           </div>
           <div className="relative w-full h-full bg-gray-900 rounded-full flex items-center justify-center ">
             <img
-              src=".\src\assets\P1.png"
+              src=".\assets\P1.png"
               alt="Profile"
               className="w-2xl object-cover"
             />
