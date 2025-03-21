@@ -13,7 +13,7 @@ const Skills = () => {
     { name: "Tailwind", image: "./assets/Tailwind.png" },
   ];
   return (
-    <section id="skills" className="py-16 px-8 bg-gray-900 text-center">
+    <section id="skills" className="py-16 px-8 pt-50 bg-gray-900 text-center">
       <h2 className="text-5xl font-bold text-green-500 mb-8">My Skills</h2>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-6 max-w-5xl mx-auto">
         {skills.map((skill, index) => (

@@ -4,7 +4,7 @@ React;
 
 const About = () => {
   return (
-    <section id="about" className="py-16 px-8 bg-gray-900 text-white">
+    <section id="about" className="py-16 px-8 pt-35 bg-gray-900 text-white">
       <div className="max-w-3xl mx-auto text-left">
         <h2 className="text-3xl font-bold text-green-500 mb-6">
           Vijayadass Mohan

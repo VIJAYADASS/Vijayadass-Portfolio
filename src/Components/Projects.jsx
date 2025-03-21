@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-16 px-8 bg-gray-900 text-center">
+    <section id="projects" className="py-16 px-8 pt-40 bg-gray-900 text-center">
       <h2 className="text-5xl font-bold text-green-500 mb-4">My Recent Work</h2>
       <p className="mb-8 text-white">
         These are some of the past projects I've worked on.

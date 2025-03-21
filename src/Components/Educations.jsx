@@ -34,7 +34,7 @@ const Education = () => {
   return (
     <section
       id="education"
-      className="bg-gray-900 text-white py-16 px-6 text-center"
+      className="bg-gray-900 text-white py-16 px-6 pb-35 text-center"
     >
       <h2 className="text-5xl font-bold text-green-500 mb-8">Education</h2>
       <h2 className="text-3xl font-bold mb-6">
