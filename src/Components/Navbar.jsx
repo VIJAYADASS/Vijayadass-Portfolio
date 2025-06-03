@@ -4,7 +4,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="fixed top-2 w-full bg-gray-900 h-16 flex justify-between items-center px-8 z-50">
+    <nav className="fixed top-0 w-full bg-gray-900 h-20 flex justify-between items-center px-8 z-50">
       {/* Logo */}
       <div className="text-4xl font-bold text-green-500">
         Port<span className="text-white">folio</span>
