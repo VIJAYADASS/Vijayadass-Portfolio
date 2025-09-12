@@ -10,7 +10,7 @@ const Skills = () => {
     { name: "React.js", image: "./assets/Reactjs.png" },
     { name: "Git", image: "./assets/Git.png" },
     { name: "GitHub", image: "./assets/Github.png" },
-    { name: "Tailwind", image: "./src/assets/Tailwind.png" },
+    { name: "Tailwind", image: "./assets/Tailwind.png" },
   ];
   return (
     <section id="skills" className="py-16 px-8 pt-50 bg-gray-900 text-center">
