@@ -21,7 +21,7 @@ const Home = () => {
           onClick={() => window.open("./assets/Vijayadass_Resume", "_blank")}
         >
           <img
-            src="./assets/Download.png"
+            src="./src/assets/Download.png"
             alt="download"
             className="w-5 h-5 mr-2 transition duration-300 group-hover:filter group-hover:brightness-0 group-hover:invert"
           />
