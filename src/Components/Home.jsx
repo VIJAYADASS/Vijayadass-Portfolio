@@ -35,11 +35,7 @@ const Home = () => {
             <div className="w-full h-full rounded-full bg-gradient-conic from-transparent via-green-500 to-transparent"></div>
           </div>
           <div className="relative w-full h-full bg-gray-900 rounded-full flex items-center justify-center ">
-            <img
-              src=".\assets\p1.png"
-              alt="Profile"
-              className="w-2xl object-cover"
-            />
+            <img src="\p1.png" alt="Profile" className="w-2xl object-cover" />
           </div>
         </div>
       </div>
