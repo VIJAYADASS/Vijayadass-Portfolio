@@ -18,10 +18,10 @@ const Home = () => {
         </p>
         <button
           className="group mt-6 inline-flex items-center bg-green-600 text-white py-2 px-4 rounded-full font-semibold transition duration-300 hover:bg-transparent hover:text-green-400"
-          onClick={() => window.open("./Vijayadass_Resume.pdf", "_blank")}
+          onClick={() => window.open("./vijayadass_resume.pdf", "_blank")}
         >
           <img
-            src="./src/assets/Download.png"
+            src="./download.png"
             alt="download"
             className="w-5 h-5 mr-2 transition duration-300 group-hover:filter group-hover:brightness-0 group-hover:invert"
           />
@@ -36,7 +36,7 @@ const Home = () => {
           </div>
           <div className="relative w-full h-full bg-gray-900 rounded-full flex items-center justify-center ">
             <img
-              src=".\src\assets\P1.png"
+              src=".\assets\p1.png"
               alt="Profile"
               className="w-2xl object-cover"
             />
