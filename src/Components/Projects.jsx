@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:-translate-y-1 transition-transform w-80">
           <div className="relative group">
             <img
-              src="./src/assets/Calculator.jpg"
+              src="/calculator.jpg"
               alt="Calculator project"
               className="w-full object-cover"
             />
@@ -51,7 +51,7 @@ const Projects = () => {
         <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:-translate-y-1 transition-transform w-80 h-[410px]">
           <div className="relative group">
             <img
-              src="./src/assets/BMI.jpg"
+              src="./bmi.jpg"
               alt="BMI project"
               className="w-full h-[320px] object-contain"
             />
