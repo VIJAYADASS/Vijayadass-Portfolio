@@ -18,10 +18,10 @@ const Home = () => {
         </p>
         <button
           className="group mt-6 inline-flex items-center bg-green-600 text-white py-2 px-4 rounded-full font-semibold transition duration-300 hover:bg-transparent hover:text-green-400"
-          onClick={() => window.open("./vijayadass_resume.pdf", "_blank")}
+          onClick={() => window.open("/vijayadass_resume.pdf", "_blank")}
         >
           <img
-            src="./download.png"
+            src="/download.png"
             alt="download"
             className="w-5 h-5 mr-2 transition duration-300 group-hover:filter group-hover:brightness-0 group-hover:invert"
           />
